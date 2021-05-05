@@ -1,0 +1,36 @@
+B. Major markets for the district “Agra”
+
+	Achnera
+	Agra
+	Fatehabad
+	fatehpur Sikri
+	Jagnair
+	jarar
+	khairagarh
+	Samsabad
+
+C.How you can leverage machine learning to predict prices for a given
+market in Agra for the crop “Potato”.
+
+Ans:- We can use machine Learning to find the pattern when the price goes higher and which crop gets lower profit/price. The data will be used in a time series forecast to find the next 10Days(Let suppose) of Price. 
+Article:- there is a huge rise expected so we can invest our time to get better output.
+At 25.2% CAGR, AI in Agriculture Market Size & Share to Soar, Expected to Surpass $3,984.5 Million by 2026: Updated Report from Facts & Factors
+
+Q. What are the data pre-processing / cleaning techniques you would apply?
+A. Rectify any error caused while importing from site, also We can create new variables for our understaanding and see how it effects our profit/future Price.
+
+Q. What are the features you would use to create the model?
+A. Season, External factor, rainfall, natural calamity.etc.
+
+Q. How would you frame this problem as a machine learning problem? What would be the target variable?
+A. Modal Price (Rs./Quintal)	Min Price (Rs./Quintal)		Max Price (Rs./Quintal) any of these as per the requirement
+
+Q. Which algorithm would you use for price prediction?
+A. this is basically a regression task so:- RandomForest,XGBoost,Linear Regression.
+
+Q. What would be the loss function you would use?
+A. RMSE or MAE
+
+Q. Any other comments you want to add?
+Q. Will I be asked to work on the same dataset?
+
