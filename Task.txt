@@ -17,7 +17,7 @@ Article:- there is a huge rise expected so we can invest our time to get better 
 At 25.2% CAGR, AI in Agriculture Market Size & Share to Soar, Expected to Surpass $3,984.5 Million by 2026: Updated Report from Facts & Factors
 
 Q. What are the data pre-processing / cleaning techniques you would apply?
-A. Rectify any error caused while importing from site, also We can create new variables for our understaanding and see how it effects our profit/future Price.
+A. Rectify any error caused while importing from site, also We can create new variables for our understanding  and see how it effects our profit/future Price.
 
 Q. What are the features you would use to create the model?
 A. Season, External factor, rainfall, natural calamity.etc.
